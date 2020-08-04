@@ -99,7 +99,9 @@ Few-shot performance can be improved by relabeling images in each class (splitti
 
 <img src="readme/Fig5.png" width="600"/>
 
+## License
 
+You may find out more about the license [here](LICENSE).
 
 ## 5. Citing this work
 
