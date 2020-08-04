@@ -1,0 +1,5 @@
+filelists/*
+.ipynb_checkpoints/
+__pycache__/
+ckpts/
+jsons/

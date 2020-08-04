@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+runs/
+data/*
+!data/download_cub.sh
+!data/download_miniimagenet.sh
+!data/split_CUB.py
+!data/tiered-imagenet/get_tiered-imagenet.py
+submitit_runs/
+other/
+!data/IN/IMAGENET_LOWSHOT_BENCHMARK_CATEGORY_SPLITS.json
+!data/IN6k/IN6k_base.json
+!cl_fsl/
+cl_fsl/filelists/CUB/CUB_200_2011/
+submitit_runs2/
+IN6k_cub.json
+IN6k.json
