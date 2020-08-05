@@ -1,6 +1,6 @@
 # Dataset Design for FewShot Learning
 
-(ECCV 2020) This code is aimed at reproducing the results and figures in the ECCV 2020 paper: Impact of base dataset design on few-shot image classification - (TODO: link).
+(ECCV 2020) This code is aimed at reproducing the results and figures in the ECCV 2020 paper: Impact of base dataset design on few-shot image classification - [project webpage](http://imagine.enpc.fr/~sbaio/fewshot_dataset_design).
 
 Our paper presents a systematic empirical study about the impact of the base dataset on the few-shot classification performance using given features. We rely on a simple but effective baseline: Nearest-Neighbors (NN) with L2-normalized features, usually named Cosine Classifier.
 
@@ -106,3 +106,4 @@ You may find out more about the license [here](LICENSE).
 ## 5. Citing this work
 
 SBAI, Othman, COUPRIE, Camille, et AUBRY, Mathieu. Impact of base dataset design on few-shot image classification. ECCV 2020
+
